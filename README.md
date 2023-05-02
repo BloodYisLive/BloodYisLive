@@ -1,6 +1,6 @@
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Social Media :
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -13,5 +13,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=BloodYisLive&style=flat-square&color=blue" alt=""/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BloodYisLive)](https://git.io/streak-stats)
